@@ -23,7 +23,9 @@ After this operation, each purchase is matched with customer.
 
 
 When program is run,
-'''
+
+```
+
 Customer name
 Total payment without promotions 
 Total VAT
@@ -33,7 +35,8 @@ Total transaction discounts
 -- Total--
 
 Total points available
-'''
+
+```
 
 is displayed to the user.
 
