@@ -32,7 +32,7 @@ Total VAT
 Total product discounts
 Total transaction discounts
 
--- Total--
+--Total Cart Value--
 
 Total points available
 
